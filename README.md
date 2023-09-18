@@ -1,6 +1,4 @@
-Certainly! Here's a README.md file based on the information you provided:
 
-```markdown
 # AirBnB Clone
 
 Welcome to the AirBnB Clone project!
@@ -75,6 +73,4 @@ $ python3 -m unittest tests/test_console.py
 
 - Marie Joselyne NYAMPINGA
 - Alhassan Dumbuya
-```
 
-You can copy and paste this content into a file named `README.md` in your project's repository. Be sure to replace the author names, if necessary, with the actual names of the authors who contributed to the project.
